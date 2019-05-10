@@ -1,0 +1,58 @@
+[
+  {
+    "VehicleNo": "5271RJ",
+    "Imei": "358899051514712",
+    "Location": "Delhi - Jaipur Expressway-Keshwana Rajput-Mahendragarh-Rajasthan-India",
+    "Date": "2019-05-10 10:50:59.000",
+    "Tempr": "0",
+    "Ignition": "1",
+    "Lat": "27.845476",
+    "Long": "76.252924",
+    "Speed": "0",
+    "Angle": "296"
+  }, {
+    "VehicleNo": "Locality Vehicle",
+    "Imei": "358739050284414",
+    "Location": "Jaipur-Kishangarh Expressway - Sitarampura- Jaipur - Rajasthan - India",
+    "Date": "2019-05-10 17:32:38.000",
+    "Tempr": "0",
+    "Ignition": "0",
+    "Lat": "26.782096",
+    "Long": "75.398587",
+    "Speed": "0",
+    "Angle": "77"
+  }, {
+    "VehicleNo": "DIGI-SET",
+    "Imei": "358899052443424",
+    "Location": "Chandoli Road-Chand Doli-Jaipur-Rajasthan-India",
+    "Date": "2019-04-25 14:50:13.000",
+    "Tempr": "0",
+    "Ignition": "0",
+    "Lat": "27.610031",
+    "Long": "75.980987",
+    "Speed": "0",
+    "Angle": "272"
+  }, {
+    "VehicleNo": "352483084209156",
+    "Imei": "355488020110724",
+    "Location": "Mombasa Road-National Park-Embakasi-Nairobi-Nairobi-Kenya",
+    "Date": "2019-05-10 17:32:22.000",
+    "Tempr": "0",
+    "Ignition": "1",
+    "Lat": "-1.330348",
+    "Long": "36.866667",
+    "Speed": "38",
+    "Angle": "81"
+  }, {
+    "VehicleNo": "NL01AA6875",
+    "Imei": "356173062954255",
+    "Location": "9(2) - Huskur Road - Electronic City Phase II - Bengaluru- Bangalore Urban - Karnataka - India",
+    "Date": "2019-05-10 16:32:45.000",
+    "Tempr": "0",
+    "Ignition": "0",
+    "Lat": "12.839224",
+    "Long": "77.685549",
+    "Speed": "0",
+    "Angle": "285"
+  }
+]
